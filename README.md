@@ -7,7 +7,7 @@ Email:	aj.addons@gmail.com
 	
 Set Up Instructions	
 	
-	You will need to create a bound script with provided code, authorize the script, create a GCP project, enable an API, enable an Advanced Service, and associate the GDP project with the Apps Script project.  I'm providing the code and instructions for how to do the set-up.
+You will need to create a bound script with provided code, authorize the script, create a GCP project, enable an API, enable an Advanced Service, and associate the GDP project with the Apps Script project.  I'm providing the code and instructions for how to do the set-up.
 	
 Create a bound project	
 	From the spreadsheet menu, click the "Tools" menu and the "Script editor" menu item.

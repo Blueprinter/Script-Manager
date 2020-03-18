@@ -1,0 +1,7 @@
+{
+  "timeZone": "Etc/GMT",
+  "exceptionLogging": "STACKDRIVER",
+  "oauthScopes": ["https://www.googleapis.com/auth/script.projects",
+                  "https://www.googleapis.com/auth/spreadsheets.currentonly"],
+  "runtimeVersion": "DEPRECATED_ES5"
+}

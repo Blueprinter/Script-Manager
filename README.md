@@ -9,13 +9,14 @@ Set Up Instructions
 	
 You will need to create a bound script with provided code, authorize the script, create a GCP project, enable an API, enable an Advanced Service, and associate the GDP project with the Apps Script project.  I'm providing the code and instructions for how to do the set-up.
 	
-Create a bound project	
+Create an Apps Script project bound to the spreadsheet that the add-on is installed in
+
 	From the spreadsheet menu, click the "Tools" menu and the "Script editor" menu item.
 	The code editor will open
 	In the upper left hand corner, click the name - Enter a Name: Script_Manager_Bound
 	Go to the code source at the link below
 	
-	Copy the code.
+	Copy the code in the Script_Manager_User.gs file
 	Paste the code into the code editor
 	Save the File
 	
